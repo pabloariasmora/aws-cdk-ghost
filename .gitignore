@@ -10,3 +10,7 @@ cdk.out
 # Parcel build directories
 .cache
 .build
+
+# IntelliJ directories and files
+.idea/
+*.iml
